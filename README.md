@@ -2,7 +2,7 @@
 
 </br>
 
-make and upload elf file to STM32F4-Chip</br>
+Make and upload .elf file to STM32F4-Chip</br>
 
 </br>
 In this case, period 0.5ms~2.5ms, and maximum angel 180 ,if SetPWNFreq = 50Hz, 1000ms/50 = 20ms </br>
