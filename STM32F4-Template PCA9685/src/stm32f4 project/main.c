@@ -39,7 +39,7 @@
 #define ALLLED_OFF_H 0xFD
 
 /*
- * 500~2500 us to 0~180 Angel
+ * 500~2500 us to 0~180 Angle
  */
 long in_min = 500;
 long in_max = 2500;
